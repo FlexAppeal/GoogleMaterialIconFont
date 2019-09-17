@@ -3,7 +3,7 @@
 //
 // Use generate.rb to generate when codepoints.txt is updated
 //
-// Generated on 2016-08-18 11:37:33 +0900
+// Generated on 2019-09-17 11:06:00 +0200
 //
 
 @objc public enum MaterialIconFont: Int {
